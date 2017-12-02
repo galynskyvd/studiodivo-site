@@ -1,0 +1,26 @@
+{
+  "name": "studiodivo-site",
+  "version": "1.0.0",
+  "description": "Site of photo studio",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "@babel/core": "^7.0.0-beta.32",
+    "@babel/preset-env": "^7.0.0-beta.32",
+    "babel-loader": "^8.0.0-beta.0",
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galynskyvd/studiodivo-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galynskyvd/studiodivo-site/issues"
+  },
+  "homepage": "https://github.com/galynskyvd/studiodivo-site#readme"
+}
